@@ -1,34 +1,29 @@
-<svg width="590" height="318" viewBox="0 0 590 318" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg3" x1="20" y1="0" x2="570" y2="318" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#17181B"/>
-    <stop offset="1" stop-color="#0C0D0F"/>
-  </linearGradient>
-</defs>
-<rect x="1" y="1" width="588" height="316" rx="30" fill="url(#bg3)"/>
-<rect x="1" y="1" width="588" height="316" rx="30" stroke="#FFFFFF" stroke-opacity=".10"/>
-<circle cx="522" cy="44" r="70" fill="#30D158" fill-opacity=".08"/>
+<svg width="590" height="330" viewBox="0 0 590 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card-bg" x1="18" y1="12" x2="566" y2="322" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171714"/>
+      <stop offset="1" stop-color="#0E0E0D"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="588" height="328" rx="22" fill="url(#card-bg)"/>
+  <rect x="1" y="1" width="588" height="328" rx="22" stroke="#E9E2D3" stroke-opacity=".14"/>
+  <path d="M34 157H556" stroke="#E9E2D3" stroke-opacity=".12"/>
+  <path d="M34 157H152" stroke="#D5B77A" stroke-opacity=".8"/>
 
-<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-  <text x="34" y="50" fill="#73747A" font-size="13" font-weight="700" letter-spacing="1.5">03</text>
-  <text x="34" y="92" fill="white" font-size="28" font-weight="700" letter-spacing="-0.7">EchoHarvest</text>
-  <text x="34" y="120" fill="#30D158" font-size="15" font-weight="650">Distributed data engine</text>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="34" y="45" fill="#D5B77A" font-size="11" font-weight="700" letter-spacing="1.8">SELECTED WORK  /  03</text>
+    <text x="551" y="84" fill="#D5B77A" fill-opacity=".11" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-style="italic" text-anchor="end">03</text>
 
-  <text x="34" y="164" fill="#A7A8AD" font-size="15">
-    <tspan x="34" dy="0">Serverless orchestration controlling Dockerized Playwright</tspan>
-    <tspan x="34" dy="23">workers for resilient, large-scale web data extraction.</tspan>
-  </text>
+    <text x="34" y="99" fill="#F3EFE7" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="-.8">EchoHarvest</text>
+    <text x="34" y="129" fill="#AAA69D" font-size="14" letter-spacing=".2">A resilient engine for web-scale data collection</text>
 
-  <text x="34" y="224" fill="#74757A" font-size="13" font-weight="600">Next.js  ·  Playwright  ·  Docker  ·  Redis  ·  Supabase</text>
+    <text x="34" y="193" fill="#D1CCC2" font-size="15">Coordinates containerized browser workers across a</text>
+    <text x="34" y="216" fill="#D1CCC2" font-size="15">serverless pipeline built to recover and keep moving.</text>
 
-  <g transform="translate(34 244)">
-    <rect width="138" height="36" rx="18" fill="#30D158" fill-opacity=".13"/>
-    <text x="18" y="23" fill="#30D158" font-size="13" font-weight="700">DISTRIBUTED</text>
+    <text x="34" y="258" fill="#76736C" font-size="10" font-weight="700" letter-spacing="1.5">BUILT WITH</text>
+    <text x="34" y="282" fill="#AAA69D" font-size="13">Next.js · Playwright · Docker · Redis · Supabase</text>
+
+    <text x="437" y="302" fill="#77746D" font-size="11" font-weight="700" letter-spacing="1.4">PRIVATE BUILD</text>
+    <path d="M538 298H552" stroke="#77746D" stroke-width="1.4" stroke-linecap="round"/>
   </g>
-
-  <g transform="translate(500 251)">
-    <rect width="54" height="38" rx="19" fill="#FFFFFF" fill-opacity=".07"/>
-    <path d="M20 19H33M28 14L33 19L28 24" stroke="#F0F0F2" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-</g>
 </svg>
