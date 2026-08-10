@@ -1,0 +1,47 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#151619"/>
+    <stop offset="1" stop-color="#0B0C0E"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="328" rx="34" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="328" rx="34" stroke="#FFFFFF" stroke-opacity=".10"/>
+
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+  <text x="46" y="61" fill="white" font-size="26" font-weight="700" letter-spacing="-0.6">What I work across</text>
+  <text x="46" y="88" fill="#85868B" font-size="15">From first architecture sketch to deployed product.</text>
+
+  <g transform="translate(46 124)">
+    <rect width="257" height="154" rx="24" fill="#FFFFFF" fill-opacity=".045"/>
+    <circle cx="30" cy="30" r="9" fill="#2997FF"/>
+    <text x="24" y="72" fill="white" font-size="18" font-weight="700">AI Systems</text>
+    <text x="24" y="103" fill="#96979C" font-size="14">RAG · Agents · LLM routing</text>
+    <text x="24" y="128" fill="#96979C" font-size="14">Evaluation · Tool use · Context</text>
+  </g>
+
+  <g transform="translate(319 124)">
+    <rect width="257" height="154" rx="24" fill="#FFFFFF" fill-opacity=".045"/>
+    <circle cx="30" cy="30" r="9" fill="#5AC8FA"/>
+    <text x="24" y="72" fill="white" font-size="18" font-weight="700">Product</text>
+    <text x="24" y="103" fill="#96979C" font-size="14">Next.js · TypeScript · React</text>
+    <text x="24" y="128" fill="#96979C" font-size="14">Motion · UX · Realtime UI</text>
+  </g>
+
+  <g transform="translate(592 124)">
+    <rect width="257" height="154" rx="24" fill="#FFFFFF" fill-opacity=".045"/>
+    <circle cx="30" cy="30" r="9" fill="#30D158"/>
+    <text x="24" y="72" fill="white" font-size="18" font-weight="700">Backend</text>
+    <text x="24" y="103" fill="#96979C" font-size="14">Supabase · Postgres · Redis</text>
+    <text x="24" y="128" fill="#96979C" font-size="14">APIs · Events · Workers</text>
+  </g>
+
+  <g transform="translate(865 124)">
+    <rect width="289" height="154" rx="24" fill="#FFFFFF" fill-opacity=".045"/>
+    <circle cx="30" cy="30" r="9" fill="#FF9F0A"/>
+    <text x="24" y="72" fill="white" font-size="18" font-weight="700">Infrastructure</text>
+    <text x="24" y="103" fill="#96979C" font-size="14">Docker · Vercel · CI/CD</text>
+    <text x="24" y="128" fill="#96979C" font-size="14">Serverless · Observability</text>
+  </g>
+</g>
+</svg>

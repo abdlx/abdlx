@@ -1,0 +1,12 @@
+SETUP
+
+1. Copy README.md, assets/, scripts/, and .github/ into your GitHub profile repository.
+2. Your profile repository should have the same name as your GitHub username.
+3. Push everything to main.
+4. Open GitHub Actions -> Update README activity -> Run workflow once.
+5. The action replaces assets/activity.svg with your live animated contribution graph.
+
+Design notes:
+- All visible panels, chips, buttons, cards, and graph cells are rounded.
+- The README itself stays tiny; the visual design lives inside custom SVGs.
+- This avoids GitHub's custom CSS limitations while still looking like a designed interface.
