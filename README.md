@@ -1,33 +1,32 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="I build software that thinks." />
+<img src="./assets/hero.svg" width="100%" alt="I design and build software that ships." />
 
 <br><br>
 
-<a href="https://fulfix.pk">
-  <img src="./assets/project-fulfix.svg" width="49%" alt="Fulfix" />
-</a>
-<a href="https://asasforge.com">
-  <img src="./assets/project-asas.svg" width="49%" alt="ASAS Forge" />
-</a>
-
-<br>
-
-<img src="./assets/project-echoharvest.svg" width="49%" alt="EchoHarvest" />
-<a href="https://crypto-guru-omega.vercel.app/">
-  <img src="./assets/project-arsalan.svg" width="49%" alt="Arsalan Malik" />
+<a href="https://alync.co">
+  <img src="./assets/project-alync.svg" width="100%" alt="Alync — intent-to-outreach lead generation" />
 </a>
 
 <br><br>
 
-<img src="./assets/capabilities.svg" width="100%" alt="Capabilities" />
+<a href="https://github.com/abdlx/Medsyn">
+  <img src="./assets/project-meditrack.svg" width="49%" alt="MediTrack — AI-assisted lab-report workspace" />
+</a>
+<a href="https://github.com/abdlx/OpenFinder-shell">
+  <img src="./assets/project-openfinder.svg" width="49%" alt="OpenFinder — self-hosted Linux server control plane" />
+</a>
 
 <br><br>
 
-<img src="./assets/activity.svg" width="100%" alt="GitHub activity graph" />
+<img src="./assets/capabilities.svg" width="100%" alt="Capabilities: AI systems, product, backend, and infrastructure" />
 
 <br><br>
 
-<img src="./assets/footer.svg" width="100%" alt="Let's build something." />
+<img src="./assets/activity.svg" width="100%" alt="GitHub contribution activity" />
+
+<br><br>
+
+<img src="./assets/footer.svg" width="100%" alt="Let’s build the next one." />
 
 </div>
