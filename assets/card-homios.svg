@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" role="img" aria-label="HomiOS — Your hardware is good enough.">
+<rect width="720" height="440" fill="#0b0b0b"/><rect x="1" y="1" width="718" height="438" fill="none" stroke="#555" stroke-width="2"/>
+<path d="M32 82H688 M32 365H688" stroke="#454545" stroke-width="1"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="35" y="53" fill="#ddd" font-size="17" font-weight="700" letter-spacing="3">ABDLX / 03</text>
+<text x="685" y="53" fill="#909090" font-size="15" letter-spacing="2" text-anchor="end">SELF-HOSTED OS</text>
+<text x="35" y="235" fill="#fff" font-size="67" letter-spacing="-3.5" font-weight="800">HomiOS</text>
+<text x="37" y="281" fill="#c8c8c8" font-size="19">Your hardware is good enough.</text>
+<text x="36" y="409" fill="#b0b0b0" font-size="15" letter-spacing="2">EXPLORE PROJECT</text>
+<path d="M633 401h40m-14-14 14 14-14 14" stroke="#fff" stroke-width="2" fill="none"/>
+</g><g transform="translate(464 134)" stroke="#eee" fill="none" stroke-width="2"><rect x="4" y="0" width="201" height="57" rx="8"/><rect x="4" y="73" width="201" height="57" rx="8"/><rect x="4" y="146" width="201" height="57" rx="8"/><circle cx="26" cy="29" r="6" fill="#fff"/><circle cx="26" cy="102" r="6" fill="#fff"/><circle cx="26" cy="175" r="6" fill="#fff"/><path d="M47 29h125M47 102h91M47 175h143"/></g>
+</svg>
