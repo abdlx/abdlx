@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" role="img" aria-label="hob — A control room for autonomous teams.">
-<rect width="720" height="440" fill="#0b0b0b"/><rect x="1" y="1" width="718" height="438" fill="none" stroke="#555" stroke-width="2"/>
-<path d="M32 82H688 M32 365H688" stroke="#454545" stroke-width="1"/>
-<g font-family="Arial, Helvetica, sans-serif">
-<text x="35" y="53" fill="#ddd" font-size="17" font-weight="700" letter-spacing="3">ABDLX / 02</text>
-<text x="685" y="53" fill="#909090" font-size="15" letter-spacing="2" text-anchor="end">AGENT ORCHESTRATION</text>
-<text x="35" y="235" fill="#fff" font-size="67" letter-spacing="-3.5" font-weight="800">hob</text>
-<text x="37" y="281" fill="#c8c8c8" font-size="19">A control room for autonomous teams.</text>
-<text x="36" y="409" fill="#b0b0b0" font-size="15" letter-spacing="2">EXPLORE PROJECT</text>
-<path d="M633 401h40m-14-14 14 14-14 14" stroke="#fff" stroke-width="2" fill="none"/>
-</g><g transform="translate(475 122)" fill="none" stroke="#e7e7e7" stroke-width="2"><path d="M90 81 15 25 M90 81 190 18 M90 81 212 145 M90 81 13 160" stroke-dasharray="5 5"/><rect x="53" y="48" width="76" height="66" rx="12" fill="#fff"/><circle cx="91" cy="81" r="12" fill="#0b0b0b" stroke="none"/><rect x="-4" y="3" width="42" height="42" rx="8"/><rect x="165" y="-5" width="48" height="47" rx="8"/><rect x="186" y="124" width="47" height="46" rx="8"/><rect x="-8" y="144" width="48" height="45" rx="8"/></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 214" width="1100" height="214" role="img" aria-label="hob: A control room for autonomous agents."><rect width="1100" height="214" fill="#0b0b0b"/><rect x="1" y="1" width="1098" height="212" fill="none" stroke="#505050" stroke-width="2"/><path d="M35 55h758" stroke="#484848"/><g font-family="Arial,Helvetica,sans-serif"><text x="38" y="35" fill="#aaa" font-size="16" letter-spacing="2.5">02 / AI ORCHESTRATION</text><text x="36" y="131" fill="#fff" font-size="79" font-weight="800" letter-spacing="-3">hob</text><text x="39" y="173" fill="#bdbdbd" font-size="22">A control room for autonomous agents.</text><text x="40" y="199" fill="#919191" font-size="13" letter-spacing="2">VIEW PROJECT</text><path d="M747 188h50m-15-14 15 14-15 14" stroke="#fff" stroke-width="2" fill="none"/></g><g stroke="#b6b6b6" stroke-width="2.5" fill="none"><circle cx="938" cy="103" r="27"/><circle cx="864" cy="57" r="12"/><circle cx="1030" cy="57" r="12"/><circle cx="864" cy="155" r="12"/><circle cx="1030" cy="155" r="12"/><path d="M915 90 876 63M960 89l58-26M915 117l-39 32M961 118l57 31"/></g></svg>
