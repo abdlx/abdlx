@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" role="img" aria-label="hob — A control room for autonomous teams.">
+<rect width="720" height="440" fill="#0b0b0b"/><rect x="1" y="1" width="718" height="438" fill="none" stroke="#555" stroke-width="2"/>
+<path d="M32 82H688 M32 365H688" stroke="#454545" stroke-width="1"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="35" y="53" fill="#ddd" font-size="17" font-weight="700" letter-spacing="3">ABDLX / 02</text>
+<text x="685" y="53" fill="#909090" font-size="15" letter-spacing="2" text-anchor="end">AGENT ORCHESTRATION</text>
+<text x="35" y="235" fill="#fff" font-size="67" letter-spacing="-3.5" font-weight="800">hob</text>
+<text x="37" y="281" fill="#c8c8c8" font-size="19">A control room for autonomous teams.</text>
+<text x="36" y="409" fill="#b0b0b0" font-size="15" letter-spacing="2">EXPLORE PROJECT</text>
+<path d="M633 401h40m-14-14 14 14-14 14" stroke="#fff" stroke-width="2" fill="none"/>
+</g><g transform="translate(475 122)" fill="none" stroke="#e7e7e7" stroke-width="2"><path d="M90 81 15 25 M90 81 190 18 M90 81 212 145 M90 81 13 160" stroke-dasharray="5 5"/><rect x="53" y="48" width="76" height="66" rx="12" fill="#fff"/><circle cx="91" cy="81" r="12" fill="#0b0b0b" stroke="none"/><rect x="-4" y="3" width="42" height="42" rx="8"/><rect x="165" y="-5" width="48" height="47" rx="8"/><rect x="186" y="124" width="47" height="46" rx="8"/><rect x="-8" y="144" width="48" height="45" rx="8"/></g>
+</svg>
