@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="ABDLX — Building software for people and agents">
+<rect width="1100" height="300" fill="#080808"/>
+<g stroke="#303030" stroke-width="1"><path d="M45 34H1055M45 265H1055"/><path d="M45 34V265M1055 34V265"/></g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#fff">
+<text x="73" y="76" font-size="13" letter-spacing="4" fill="#bdbdbd">INDEPENDENT BUILDER / PAKISTAN</text>
+<text x="69" y="191" font-size="116" font-weight="800" letter-spacing="-9">ABDLX<tspan fill="#888">.</tspan></text>
+<text x="75" y="235" font-size="21" letter-spacing=".3">I build software for people, machines, and the space between.</text>
+</g><g stroke="#fff" stroke-width="2"><path d="M1011 60h20v20M1011 240h20v-20"/></g>
+</svg>
