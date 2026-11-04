@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="780" viewBox="0 0 380 780" role="img" aria-label="ABDLX, independent software builder from Karachi, Pakistan">
+<rect width="380" height="780" fill="#0a0a0a"/><rect x="1" y="1" width="378" height="778" fill="none" stroke="#555" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="30" y="56" fill="#a9a9a9" font-size="15" letter-spacing="3">INDEPENDENT BUILDER</text>
+<path d="M30 76H350" stroke="#444"/>
+<text x="25" y="172" fill="#fff" font-size="85" font-weight="800" letter-spacing="-7">ABDLX<tspan fill="#888">.</tspan></text>
+<text x="31" y="232" fill="#ededed" font-size="21">Building software</text>
+<text x="31" y="263" fill="#ededed" font-size="21">for people and agents.</text>
+<path d="M30 320H350" stroke="#444"/>
+<text x="30" y="366" fill="#aaa" font-size="14" letter-spacing="2">FOCUS</text>
+<text x="30" y="403" fill="#fff" font-size="19">AI agents</text>
+<text x="30" y="439" fill="#fff" font-size="19">Infrastructure</text>
+<text x="30" y="475" fill="#fff" font-size="19">SaaS products</text>
+<text x="30" y="511" fill="#fff" font-size="19">Product design</text>
+<path d="M30 562H350" stroke="#444"/>
+<text x="30" y="606" fill="#aaa" font-size="14" letter-spacing="2">BASED IN</text>
+<text x="30" y="641" fill="#fff" font-size="20">Karachi, Pakistan</text>
+<text x="30" y="733" fill="#888" font-size="14" letter-spacing="2">BUILD / SHIP / REPEAT</text>
+</g>
+<path d="M320 704h28m-10-10 10 10-10 10" stroke="#fff" stroke-width="2" fill="none"/>
+</svg>
