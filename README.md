@@ -7,8 +7,6 @@
 </td>
 <td width="66%" valign="top">
 
-<a href="https://alync.co"><img src="./assets/card-alync.svg" width="100%" alt="Alync — intent to outreach SaaS" /></a>
-
 <a href="https://github.com/abdlx/hob"><img src="./assets/card-hob.svg" width="100%" alt="hob — multi-agent control room" /></a>
 
 <a href="https://github.com/abdlx/HomiOS"><img src="./assets/card-homios.svg" width="100%" alt="HomiOS — Linux home server experience" /></a>
