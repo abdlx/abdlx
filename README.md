@@ -1,32 +1,38 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="I design and build software that ships." />
+<img src="./assets/mono-header.svg" width="100%" alt="ABDLX — building software for people and agents" />
 
-<br><br>
+<br />
 
-<a href="https://alync.co">
-  <img src="./assets/project-alync.svg" width="100%" alt="Alync — intent-to-outreach lead generation" />
-</a>
+**Building useful things. Making complex systems feel simple.**
 
-<br><br>
+AI agents · self-hosted infrastructure · products · interfaces
 
-<a href="https://github.com/abdlx/Medsyn">
-  <img src="./assets/project-meditrack.svg" width="49%" alt="MediTrack — AI-assisted lab-report workspace" />
-</a>
-<a href="https://github.com/abdlx/OpenFinder-shell">
-  <img src="./assets/project-openfinder.svg" width="49%" alt="OpenFinder — self-hosted Linux server control plane" />
-</a>
+</div>
 
-<br><br>
+---
 
-<img src="./assets/capabilities.svg" width="100%" alt="Capabilities: AI systems, product, backend, and infrastructure" />
+### Selected work
 
-<br><br>
+**01 / [Alync](https://alync.co)**  \
+A SaaS product turning intent into outreach.
 
-<img src="./assets/activity.svg" width="100%" alt="GitHub contribution activity" />
+**02 / [hob](https://github.com/abdlx/hob)**  \
+A self-hosted control room for Hermes AI agents. Multiple bots, one workspace for orchestration.
 
-<br><br>
+**03 / [HomiOS](https://github.com/abdlx/HomiOS)**  \
+An intuitive home-server OS experience for the Linux hardware you already own.
 
-<img src="./assets/footer.svg" width="100%" alt="Let’s build the next one." />
+**04 / [Agent Computer](https://github.com/abdlx/Agent-Computer)**  \
+Persistent, isolated Linux computer containers for AI agents.
+
+**05 / [Portal](https://github.com/abdlx/Portal)**  \
+One persistent Linux computer, separate browser profiles for every agent. Live VNC and human control.
+
+---
+
+<div align="center">
+
+<sub>DESIGNED & BUILT BY <a href="https://github.com/abdlx">ABDLX</a> · KARACHI, PAKISTAN</sub>
 
 </div>
